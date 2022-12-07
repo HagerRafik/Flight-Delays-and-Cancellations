@@ -1,6 +1,6 @@
 # Flight Delays and Cancellations
 
-#### flight delayes report: 
+#### flight delayes and ancellations  report: 
 https://drive.google.com/file/d/1u3_-mtq__fWV4qYkVSDEFwR1Rn7yCrxn/view?usp=sharing
 
 In this project, we'll create visualizations to reveal insights from a data set. we'll create data visualizations that tell a story or highlight patterns in the data set.
