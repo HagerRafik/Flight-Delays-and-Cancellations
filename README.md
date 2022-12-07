@@ -13,7 +13,7 @@ link https://www.kaggle.com/datasets/usdot/flight-delays
 #### questions I've covert in this project:
 
 > 1- what was the number of flights during 2015, and how were these flights disributed across the US?<br>
-> 2- Which countries and airports have the worst delays?<br>
+> 2- Which states and airports have the worst delays?<br>
 > 3- flight cancelations and What causes them?<br>
 
 
