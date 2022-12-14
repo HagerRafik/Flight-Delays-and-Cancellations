@@ -10,7 +10,7 @@ This data comes from a Kaggle dataset, it tracks the on-time performance of US d
 you can download the dataset used in this project via this 
 link https://www.kaggle.com/datasets/usdot/flight-delays
 
-#### questions I've covert in this project:
+#### questions I've covered in this project:
 
 > 1- what was the number of flights during 2015, and how were these flights disributed across the US?<br>
 > 2- Which states and airports have the worst delays?<br>
